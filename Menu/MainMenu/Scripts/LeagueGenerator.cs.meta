@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d8ddecbf3b8ddf94ab74eeef5af2d9e4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - clubNamesData: {fileID: 11400000, guid: 32d9cc9349c771d4fab12ad9168f0b7f, type: 2}
+  - badgeColorsData: {fileID: 11400000, guid: f74c2b25706fff0449c469e7cb8c6c82, type: 2}
+  - playerNamesData: {fileID: 11400000, guid: e10dc47bd44b5324d86064dd41991873, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
